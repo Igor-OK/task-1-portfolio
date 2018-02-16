@@ -1,4 +1,8 @@
-# task-1-portfolio
-Portfolio without js, just pure (html+css)
+# Портфолио (задание 1)
 
-Made using css grid layout, SASS, minification of css code
+Сверстан адаптивный сайт согласно заданному макету.
+Только HTML+CSS, никаких скриптов.
+Графика адаптирована под все размеры и минифицирована.
+Основа верстки - CSS GRID LAYOUT
+Препроцессор - SASS
+Код стилей в итоге минифицирован
