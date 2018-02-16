@@ -6,3 +6,5 @@
 Основа верстки - CSS GRID LAYOUT
 Препроцессор - SASS
 Код стилей в итоге минифицирован
+
+Посмотрть можно тут - https://igor-ok.github.io/task-1-portfolio/
